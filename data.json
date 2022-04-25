@@ -15,7 +15,7 @@
   "models": [
     {
       "name": "BLUE ICE",
-      "glbFile": "/BLUE.glb",
+      "glbFile": "/assets/BLUE.glb",
       "attributes": [
         { "trait_type": "IDENTITY", "value": "SEA_CRYSTAL" },
         { "trait_type": "PRICE", "value": "???" },
@@ -25,7 +25,7 @@
     },
     {
       "name": "Silver Cube",
-      "glbFile": "/GRAY.glb",
+      "glbFile": "/assets/GRAY.glb",
       "attributes": [
         { "trait_type": "IDENTITY", "value": "NOT_DIAMOND" },
         { "trait_type": "PRICE", "value": "$1" },
@@ -35,7 +35,7 @@
     },
     {
       "name": "Red Cube",
-      "glbFile": "/RED.glb",
+      "glbFile": "/assets/RED.glb",
       "attributes": [
         { "trait_type": "IDENTITY", "value": "BLOODY_MARRY" },
         { "trait_type": "PRICE", "value": "$230" },
@@ -45,7 +45,7 @@
     },
     {
       "name": "YELLOW",
-      "glbFile": "/YELLOW.glb",
+      "glbFile": "/assets/YELLOW.glb",
       "attributes": [
         { "trait_type": "IDENTITY", "value": "BANANA" },
         { "trait_type": "PRICE", "value": "$2220" },
