@@ -1,58 +1,56 @@
 {
   "artist": {
-    "name": "Michael Gold",
-    "avatar": "/images/avatar.jpg",
-    "shortBio": "Generative Artist",
+    "name": "Willitao",
+    "avatar": "/images/will'shead.jpg",
+    "shortBio": "Welcome to my secret space.",
     "socials": [
-      { "icon": "FaHome", "url": "https://mike.gold" },
-      { "icon": "FaTwitter", "url": "https://twitter.com/michaelgold" },
-      { "icon": "FaGithub", "url": "https://github.com/michaelgold" },
-      { "icon": "FaLinkedin", "url": "https://linkedin.com/in/gold1" },
-      { "icon": "FaUniversity", "url": "https://sva.edu/faculty/michael-gold" }
+      { "icon": "FaHome", "url": "https://willyanjiadi.wixsite.com/willitao" },
+      { "icon": "FaInstagram", "url": "https://www.instagram.com/willitaoo/" },
+      { "icon": "FaGithub", "url": "https://github.com/yanj198" }
     ]
   },
   "project": {
-    "name": "AR Gallery Example"
+    "name": "MENTAL_BLOCKS."
   },
   "models": [
     {
-      "name": "Gold Cube",
-      "glbFile": "/assets/gold-cube.glb",
+      "name": "BLUE ICE",
+      "glbFile": "/assets/BLUE.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "gold" },
-        { "trait_type": "material", "value": "metal" }
+        { "trait_type": "IDENTITY", "value": "SEA_CRYSTAL" },
+        { "trait_type": "PRICE", "value": "???" },
+        { "trait_type": "COLOR", "value": "BLUE" },
+        { "trait_type": "DENSITY", "value": "MEDIUM" }
       ]
     },
     {
       "name": "Silver Cube",
-      "glbFile": "/assets/silver-cube.glb",
+      "glbFile": "/assets/GRAY.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "silver" },
-        { "trait_type": "material", "value": "metal" }
+        { "trait_type": "IDENTITY", "value": "NOT_DIAMOND" },
+        { "trait_type": "PRICE", "value": "$1" },
+        { "trait_type": "COLOR", "value": "BLACK" },
+        { "trait_type": "DENSITY", "value": "Low" }
       ]
     },
     {
       "name": "Red Cube",
-      "glbFile": "/assets/red-cube.glb",
+      "glbFile": "/assets/RED.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "red" },
-        { "trait_type": "material", "value": "plastic" }
+        { "trait_type": "IDENTITY", "value": "BLOODY_MARRY" },
+        { "trait_type": "PRICE", "value": "$230" },
+        { "trait_type": "COLOR", "value": "RED" },
+        { "trait_type": "DENSITY", "value": "High" }
       ]
     },
     {
-      "name": "Green Cube",
-      "glbFile": "/assets/green-cube.glb",
+      "name": "YELLOW",
+      "glbFile": "/assets/YELLOW.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "green" },
-        { "trait_type": "material", "value": "plastic" }
+        { "trait_type": "IDENTITY", "value": "BANANA" },
+        { "trait_type": "PRICE", "value": "$2220" },
+        { "trait_type": "COLOR", "value": "YELLOW" },
+        { "trait_type": "DENSITY", "value": "Low" }
       ]
     }
   ]
